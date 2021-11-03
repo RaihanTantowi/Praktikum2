@@ -12,4 +12,4 @@
    print ("Keliling Lingkaran\t= ",keliling)
 ```
 **Output:**
-![Gambar 1](screenshoot2/ss1.png)
+![Gambar 1](screenshoot/ss1.png)
