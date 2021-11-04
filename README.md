@@ -17,7 +17,7 @@
  print ("Luas Lingkaran \t\t= ",luas)
  print ("Keliling Lingkaran\t= ",keliling)
 ```
-**Output:**
+**Output program:**
 
 ![Gambar 1](screenshoot/ss1.png)
 
@@ -33,3 +33,17 @@ Selanjutnya kita memerlukan nilai jari-jari (r) yang nantinya akan di masukan ol
 Ketika kita sudah mendapat nilai phi dan jari-jari selanjutnya kita bisa menghitung luas dan keliling sesuai dengan rumus-nya masing-masing (lihat pada baris ke 3 & 4).
 
 Selanjutnya kita tampilkan hasilnya dengan fungsi print(). sintak \t merupakan karakter espace yang berfungsi untuk membuat tab. dalam kasus ini agar sejajar karakter sama dengan (=) nya.
+
+### 2. File program Lab1
+**Output program:**
+
+
+![Gambar 3](screenshoot/ss3.png)
+
+
+### 3. File program Lab2
+**Output program:**
+
+![Gambar 4](screenshoot/ss4.png)
+
+
