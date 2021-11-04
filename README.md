@@ -36,7 +36,7 @@ Selanjutnya kita tampilkan hasilnya dengan fungsi print(). sintak \t merupakan k
 
 ### 2. File program Lab1
 **Kode program yang ada pada Lab1**
-* penggunaan end digunakan untuk menentukan suatu kalimat yang sejajar (kalimatnya dalam satu baris) dengan ditambahkanya kode (end='') seperti gambar dibawah ini
+* penggunaan end digunakan untuk menentukan suatu kalimat yang sejajar (kalimatnya dalam satu baris) dengan ditambahkanya kode (end='') seperti kode program dibawah ini.
 ```
  # penggunaan end
  print('A', end='')
@@ -58,7 +58,7 @@ Selanjutnya kita tampilkan hasilnya dengan fungsi print(). sintak \t merupakan k
  print(w, x, y, z, sep=':')
  print(w, x, y, z, sep='-----')
 ```
-* Penggunaan string format metode 1 digunakan untuk mengambil argumen yang diteruskan, memformatnya, dan menempatkannya dalam string di mana placeholder {} berada 
+* Penggunaan string format metode 1, pada kode program ** akan menghasilkan suatu perpangkatan, seperti program dibawah ini.
 ```
  # string format
  print(0, 10**0)
@@ -89,13 +89,29 @@ Selanjutnya kita tampilkan hasilnya dengan fungsi print(). sintak \t merupakan k
  print('{0:>3} {1:>16}'.format(9, 10**9))
  print('{0:>3} {1:>16}'.format(10, 10**10))
 ```
-**Berikut output progam pada Lab1**
+**Berikut output program pada Lab1**
 
 ![Gambar 3](screenshoot/ss3.png)
 
-
 ### 3. File program Lab2
-**Output program:**
+**Kode program pada Lab2**
+```
+# Mengambil input
+ a=input("masukan nilai a:")
+ b=input("masukan nilai b:")
+ print("variable a=",a)
+ print("variable b=",b)
+ print("hasil penggabungan {0}&{1}=%s".format(a,b) %(a+b))
+
+ #konversi nilai variable
+ a=int(a)
+ b=int(b)
+ print("hasil penjumlahan {0}+{1}=%d".format(a,b) %(a+b))
+ print("hasil pembagian {0}/{1}=%d".format(a,b) %(a/b))
+ ```
+program ini merupakan program untuk menghitung hasil penggabungan, penjumlahan dan pembagian, Bisa diliat pada gambar dibawah ini.
+
+**Berikut output program pada Lab2**
 
 ![Gambar 4](screenshoot/ss4.png)
 
