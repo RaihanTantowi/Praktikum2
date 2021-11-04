@@ -1,3 +1,4 @@
+# Mengambil input
 a=input("masukan nilai a:")
 b=input("masukan nilai b:")
 print("variable a=",a)
