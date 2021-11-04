@@ -2,10 +2,11 @@
 ## Tugas Pertemuan 6 - Bahasa Pemrograman
 
 ### 1. File program menghitung luas dan keliling lingkaran
-**Flowchart untuk menhitung luas dan keliling lingkaran**
+**Flowchart untuk menghitung luas dan keliling lingkaran**
 
 ![Gambar 2](screenshoot/ss2.png)
 
+**Program menghitung luas dan keliling lingkaran**
 ```
  import math
  r = float(input("Masukan Jari-jari : "))
