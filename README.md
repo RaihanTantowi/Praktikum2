@@ -1,4 +1,4 @@
-# Praktikum3
+# Praktikum2
 ## Tugas Pertemuan 6 - Bahasa Pemrograman
 
 ### 1. File program menghitung luas dan keliling lingkaran
